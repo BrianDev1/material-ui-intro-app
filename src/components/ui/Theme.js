@@ -27,6 +27,11 @@ export default createMuiTheme({
                 fontSize: "1rem",
                 minWidth: 10,
                 marginLeft: "25px"
+        },
+        estimateButton: {
+                fontSize: "1rem",
+                transform: "none",
+                height: "45px",
         }
     }
 });
